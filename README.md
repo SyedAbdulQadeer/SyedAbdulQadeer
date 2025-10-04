@@ -60,6 +60,16 @@ Let’s collaborate on:
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulqadeerdev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -67,20 +77,6 @@ Let’s collaborate on:
 ![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulqadeerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulqadeerdev&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadeerdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🧩 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🧠 Tech Stack | 🔗 Link |
-|:--|:--|:--:|
-| **SoloBot** – AI Therapist Chatbot (Offline LLM) | Flutter · llama.cpp · On-Device AI | [View Repo](#) |
-| **Alwari Admin Dashboard** – Real-time Management System | React.js · Node.js · MongoDB | [View Repo](#) |
-| **AI Blog Automation System** – Auto Content Generator | Next.js · OpenAI API · Express | [View Repo](#) |
 
 </div>
 
