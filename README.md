@@ -64,7 +64,7 @@ Let’s collaborate on:
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulqadeerdev&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SyedAbdulQadeer&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -74,9 +74,9 @@ Let’s collaborate on:
 
 <div align="center">
   
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulqadeerdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulqadeerdev&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulqadeerdev&layout=compact&theme=tokyonight&hide_border=true)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAbdulQadeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=SyedAbdulQadeer&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAbdulQadeer&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -86,8 +86,8 @@ Let’s collaborate on:
 
 <div align="center">
 <a href="https://alwaridev.tech"><img src="https://img.shields.io/badge/🌐_Website-AlwariDev.tech-00BFA6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abdulqadeerdev/"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Qadeer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/abdulqadeerdev"><img src="https://img.shields.io/badge/GitHub-Abdul%20Qadeer-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/SyedAbdulQadeer/"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Qadeer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SyedAbdulQadeer"><img src="https://img.shields.io/badge/GitHub-Abdul%20Qadeer-181717?style=for-the-badge&logo=github"/></a>
 <a href="mailto:abdulqadeer.solutions@gmail.com"><img src="https://img.shields.io/badge/Email-abdulqadeer.solutions@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
