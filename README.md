@@ -16,8 +16,8 @@ Driven by curiosity, I blend design, code, and intelligence — from mobile apps
 💡 Exploring **AI, Deep Learning & Robotics**  
 🎯 Aim: To engineer **smart, autonomous systems** that shape the future  
 🧠 Tech Journey:  
-- ⚡ **2.5+ years** of Flutter expertise  
-- 💻 **1+ year** with React.js & Node.js  
+- ⚡ **3+ years** of Flutter expertise  
+- 💻 **1.5+ year** with React.js & Node.js  
 - ☁️ Experienced in Firebase, Express, MongoDB, and REST APIs  
 
 ---
